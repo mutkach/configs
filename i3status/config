@@ -12,6 +12,7 @@ general {
 	color_degraded = '#ccdc90'  
 	color_bad =      '#e89393'   
 	interval = 1
+    output_format = i3bar
 }
 
 order += "wireless _first_"
