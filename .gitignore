@@ -1,0 +1,7 @@
+*
+!.gitignore
+!./nvim
+!./picom
+!./kitty
+!./i3
+!./i3status
