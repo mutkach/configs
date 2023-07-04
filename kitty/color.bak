@@ -1,0 +1,27 @@
+background	 #000000
+foreground	 #cbc7c2
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+# text	 #19171c
+cursor	 #8b8792
+
+# Normal colors
+color0	   #19171c
+color1	     #be4678
+color2	   #2a9292
+color3	  #a06e3b
+color4	    #576ddb
+color5	 #955ae7
+color6	    #398bc6
+color7	   #8b8792
+
+# Bright colors
+color8	   #655f6d
+color9	     #aa573c
+color10	   #9ec400
+color11	  #585260
+color12	    #7e7887
+color13	 #e2dfe7
+color14	    #bf40bf
+color15	   #efecf4
+
