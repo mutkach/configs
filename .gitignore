@@ -5,7 +5,7 @@
 !./kitty
 !./i3
 !./i3status
-!./alacritty
+!./alacritty/**
 !./rofi
 !./waybar
 !./sway
