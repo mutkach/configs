@@ -5,13 +5,13 @@ Location=$HOME/Pictures/`date +%Y-%m-%d_%H:%M:%S`.png
 
 case "$1" in
     full)
-        scrot $Location
+        maim $Location
         ;;
     current)
-        scrot -u $Location
+        maim -u $Location
         ;;
     partial)
-        scrot -s $Location
+        maim -s $Location
         ;;
     *)
         echo "Usage: $0 {full|current|partial} {clipboard}"
